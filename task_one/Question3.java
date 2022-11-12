@@ -28,7 +28,6 @@ public class Question3 {
         testing9(enteredNum);
     }
 
-
     //A list of my methods to check divisibility test.
     static void testing0(int num) {
         System.out.println(num + " cannot be divisible by 0.");
